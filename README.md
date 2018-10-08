@@ -11,5 +11,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ### class
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
       
-### object
-how to create object       
+
+### ToDo
+- [ ] Array sample
+- [ ] Object sample
+- [ ] Basic terminal commands
+- [ ] Basic Git & Github
