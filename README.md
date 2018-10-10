@@ -10,6 +10,12 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ### class
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
-      
-### object
-how to create object       
+
+### Basic Terminal Commands
+https://github.com/sleepy-maker/ITP-Terminal-Workshop    
+
+### ToDo
+- [ ] Array sample
+- [ ] Object sample
+- [x] Basic terminal commands
+- [ ] Basic Git & Github
