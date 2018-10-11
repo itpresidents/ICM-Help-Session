@@ -1,6 +1,6 @@
 # How to use localserver
-This document focuses on Mac OS basically, but commands in this doc work for Windows OS.
-* When you start your localserver, you are under your project folder.  
+This document focuses on Mac OS basically, but commands in this doc work for Windows OS.  
+##### When you start your localserver, you are under your project folder.
 If you don't know how to move folder/directory, you should check basic commands(https://github.com/sleepy-maker/ITP-Terminal-Workshop).  
 
 
