@@ -19,3 +19,9 @@ https://github.com/sleepy-maker/ITP-Terminal-Workshop
 - [ ] Object sample
 - [x] Basic terminal commands
 - [ ] Basic Git & Github
+- [ ] ml5js sample
+- [ ] Serialport sample
+
+### Session
+- [ ] Terminal
+- [ ] Git & Github
