@@ -22,6 +22,7 @@ https://github.com/sleepy-maker/ITP-Terminal-Workshop
 - [ ] ml5js sample
 - [ ] Serialport sample
 
-### Session
+### Session (plan)
 - [ ] Terminal
 - [ ] Git & Github
+- [ ] How to use DevTool
