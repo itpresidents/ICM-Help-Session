@@ -1,14 +1,14 @@
 //API part
-var api = "https://api.giphy.com/v1/gifs/search?";
-var apiKey = "&api_key=USE_YOURS_NOT_MINE";
-var query = "q=cat"; //sexy ryan gosling
-var gifs = [];
-var url = api + apiKey + query;
-var changeState = false ;
+const api = "https://api.giphy.com/v1/gifs/search?";
+const apiKey = "api_key=Your_API_Key";
+const query = "&q=cat"; //sexy ryan gosling
+let gifs = [];
+const url = api + apiKey + query;
+let changeState = false ;
 //var gifData;
 
 //keep track of time
-var m, h, s ;
+let m, h, s ;
 
 function setup() {
   noCanvas();
@@ -45,7 +45,7 @@ function mouseReleased() {
 
 //this function creates the array
 function gotData(giphy) {
-  for (var i = 0; i < 10; i++) {
+  for (let i = 0; i < 10; i++) {
   	gifs = append(gifs, giphy.data[i].images.original.url);
 	}
 }
