@@ -14,14 +14,19 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 ### Basic Terminal Commands
 https://github.com/sleepy-maker/ITP-Terminal-Workshop    
 
+### Serial Communication
+Pcomp repo      
+https://github.com/ITPNYU/physcomp/tree/master/labs2015/
+
 ### ToDo
 - [ ] Array sample
 - [ ] Object sample
 - [x] Basic terminal commands
 - [ ] Basic Git & Github
 - [ ] ml5js sample
-- [ ] Serialport sample
+- [x] Serialport sample
 
-### Session
+### Session (plan)
 - [ ] Terminal
 - [ ] Git & Github
+- [ ] How to use DevTool
