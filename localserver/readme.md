@@ -35,6 +35,13 @@ $ python -m SimpleHTTPServer
 ```
 $python -m http.server
 ```
+If you want to open more than 2 local server, you need to use a different port(default is 8000)
+```
+In this case, use port 8080
+$ python -m SimpleHTTPServer 8080
+$python -m http.server 8080
+
+```
 
 ### How to terminate your server
 You need to hit ctrl + c to terminating your localserver. If you don't stop it, it will keep working until Reboot/Shut Down your machine.
