@@ -29,6 +29,14 @@ https://p5js.org/reference/
 tool(Shiffman's video)    
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X
 
+### ES6 
+
+Shiffman's video
+https://thecodingtrain.com/Tutorials/16-javascript-es6/          
+
+sleepy-maker's ES6 sample code        
+https://github.com/sleepy-maker/ES6-samples/blob/master/README.md         
+
 ### ToDo
 - [ ] Array sample
 - [ ] Object sample
