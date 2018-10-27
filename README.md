@@ -31,7 +31,7 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X
 
 ### ES6 
 
-Shiffman's video
+Shiffman's video      
 https://thecodingtrain.com/Tutorials/16-javascript-es6/          
 
 sleepy-maker's ES6 sample code        
