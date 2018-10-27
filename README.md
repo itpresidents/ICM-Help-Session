@@ -18,6 +18,17 @@ https://github.com/sleepy-maker/ITP-Terminal-Workshop
 Pcomp repo      
 https://github.com/ITPNYU/physcomp/tree/master/labs2015/
 
+### API
+GET & POST       
+https://github.com/shiffman/itp-networked-media/wiki/GET,-POST-with-p5          
+
+### Resources
+p5js ref     
+https://p5js.org/reference/        
+  
+tool(Shiffman's video)    
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X
+
 ### ToDo
 - [ ] Array sample
 - [ ] Object sample
