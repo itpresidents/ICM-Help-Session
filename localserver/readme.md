@@ -77,3 +77,8 @@ $ live-server
 If you have Aton on your machine and don't want to deal with Terminal/Command Prompt, you can use Atom's plugin, live-server.
 You can start your localserver with a few clicks.  
 https://atom.io/packages/atom-live-server
+
+
+## Additional information on local server
+https://github.com/processing/p5.js/wiki/Local-server    
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X       
