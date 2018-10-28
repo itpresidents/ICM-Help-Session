@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>webcam demo</title>
+</head>
+<body>
+    <video id="video" width="640" height="480" autoplay></video>
+    <script>
+        const video = document.getElementById('video');
+        const media = navigator.mediaDevices.getUserMedia({
+            video: true,
+            //video: { facingMode: "environment" }, // back camera
+            //video: { facingMode: "user" },// front camera
+            audio: false, // if audio is needed, this should be true
+        });
+        media.then((stream) => {
+            video.srcObject = stream;
+        });
+    </script>
+</body>
+</html>
