@@ -1,4 +1,6 @@
+// base url
 const baseUrl = "https://api.nytimes.com/svc/search/v2/articlesearch.json";
+// api key you need to get it from https://developer.nytimes.com/
 const apiKey = "your_api_key";
 let urls = [];
 let titles = [];
@@ -12,13 +14,17 @@ function setup() {
 	const button = createButton('search');
   button.position(180, 20);
 	button.mousePressed(search);
-  
+
+    // ES6 Template literals
+	// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 	const url = baseUrl + `?api-key=${apiKey}&q=Sushi`;
 	loadJSON(url, gotData);
 }
 
 function search() {
 	const query = input.value();
+	// ES6 Template literals
+	// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 	const url = baseUrl + `?api-key=${apiKey}&q=${query}`;
 	loadJSON(url, gotData);	
 }
@@ -30,8 +36,10 @@ function gotData(data) {
 	titles = [];
 	const res = data["response"]["docs"]
 	for(let i=0; i<res.length; i++) {
-		const url = res[i]["web_url"];
-		const title = res[i]["snippet"];
+		// const url = res[i]["web_url"];
+		const url = res[i].web_url;
+		// const title = res[i]["snippet"];
+		const title = res[i].snippet;
 		// console.log("url", url);
 		// console.log("title", title);
 		urls.push(url);
