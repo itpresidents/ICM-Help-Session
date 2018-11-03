@@ -78,6 +78,11 @@ If you have Aton on your machine and don't want to deal with Terminal/Command Pr
 You can start your localserver with a few clicks.  
 https://atom.io/packages/atom-live-server
 
+## p5-manager
+p5-manager is a npm package which focuses on p5js. You can create a new project with one line command and use a localserver with a very simple command.  
+https://www.npmjs.com/package/p5-manager  
+Dan has a video on this.   
+https://www.youtube.com/watch?v=LdWleSHQTcw  
 
 ## Additional information on local server
 https://github.com/processing/p5.js/wiki/Local-server    
