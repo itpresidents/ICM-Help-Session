@@ -41,7 +41,7 @@ https://github.com/sleepy-maker/ES6-samples
 
 ### ToDo
 - [ ] Array sample
-- [ ] Object sample
+- [x] Object sample  API covers this topic
 - [x] Basic terminal commands
 - [x] Basic Git & Github
 - [ ] ml5js sample
