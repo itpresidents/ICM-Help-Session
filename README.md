@@ -37,17 +37,17 @@ Shiffman's video
 https://thecodingtrain.com/Tutorials/16-javascript-es6/          
 
 sleepy-maker's ES6 sample code        
-https://github.com/sleepy-maker/ES6-samples/blob/master/README.md         
+https://github.com/sleepy-maker/ES6-samples         
 
 ### ToDo
 - [ ] Array sample
 - [ ] Object sample
 - [x] Basic terminal commands
-- [ ] Basic Git & Github
+- [x] Basic Git & Github
 - [ ] ml5js sample
 - [x] Serialport sample
 
 ### Session (plan)
 - [ ] Terminal
-- [ ] Git & Github
+- [x] Git & Github --> Wenqi will lead the workshop for this
 - [ ] How to use DevTool
