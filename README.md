@@ -32,12 +32,16 @@ tool(Shiffman's video)
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X
 
 ### ES6 
-
 Shiffman's video      
 https://thecodingtrain.com/Tutorials/16-javascript-es6/          
 
 sleepy-maker's ES6 sample code        
 https://github.com/sleepy-maker/ES6-samples         
+
+### Git & Github
+Wenqi's workshop
+https://github.com/wenqili/github-workshop
+
 
 ### ToDo
 - [ ] Array sample
@@ -49,5 +53,5 @@ https://github.com/sleepy-maker/ES6-samples
 
 ### Session (plan)
 - [ ] Terminal
-- [x] Git & Github --> Wenqi will lead the workshop for this
+- [x] Git & Github --> Wenqi will lead the workshop for this   
 - [ ] How to use DevTool
