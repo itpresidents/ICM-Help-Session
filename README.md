@@ -52,6 +52,6 @@ https://github.com/wenqili/github-workshop
 - [x] Serialport sample
 
 ### Session (plan)
-- [ ] Terminal
+- [ ] Terminal --> pending
 - [x] Git & Github --> Wenqi will lead the workshop for this   
-- [ ] How to use DevTool
+- [ ] How to use DevTool --> pending
